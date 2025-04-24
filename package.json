@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "web3": "^4.16.0"
+  },
+  "devDependencies": {
+    "eth-gas-reporter": "^0.2.27",
+    "solhint": "^5.0.5"
+  }
+}

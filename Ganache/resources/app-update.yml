@@ -1,0 +1,4 @@
+owner: trufflesuite
+repo: ganache-ui
+provider: github
+updaterCacheDirName: '@ganacheui-updater'
