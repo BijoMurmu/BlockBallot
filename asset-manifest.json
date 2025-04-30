@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BlockBallot/static/css/main.5d6feff6.chunk.css",
+    "main.js": "/BlockBallot/static/js/main.11ed1507.chunk.js",
+    "main.js.map": "/BlockBallot/static/js/main.11ed1507.chunk.js.map",
+    "runtime-main.js": "/BlockBallot/static/js/runtime-main.0a2d0a27.js",
+    "runtime-main.js.map": "/BlockBallot/static/js/runtime-main.0a2d0a27.js.map",
+    "static/js/2.e9495ac4.chunk.js": "/BlockBallot/static/js/2.e9495ac4.chunk.js",
+    "static/js/2.e9495ac4.chunk.js.map": "/BlockBallot/static/js/2.e9495ac4.chunk.js.map",
+    "index.html": "/BlockBallot/index.html",
+    "precache-manifest.8967060a40a96ff25ad785a931aa082f.js": "/BlockBallot/precache-manifest.8967060a40a96ff25ad785a931aa082f.js",
+    "service-worker.js": "/BlockBallot/service-worker.js",
+    "static/css/main.5d6feff6.chunk.css.map": "/BlockBallot/static/css/main.5d6feff6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a2d0a27.js",
+    "static/js/2.e9495ac4.chunk.js",
+    "static/css/main.5d6feff6.chunk.css",
+    "static/js/main.11ed1507.chunk.js"
+  ]
+}
